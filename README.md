@@ -1,7 +1,13 @@
 # About me
 
-I am a French student in engineering school, making projects for fun and for learning how to code
+Hello ! My name is **Gabriel Picard**. I am a french student studying Engineering at ESILV.
 
-I mostly learned to code in C#, but I am currently learning Python.
+I am mainly interested in Financial Engineering and Machine Learning. 
 
-I am currently working on a Python package made to manage tensor.
+I am currently studying C# and C++ in university, and learning Python on my own.
+
+My current projets are:
+- A Markowitz model package
+- A neural network used to analyse hand-drawn numbers
+
+You can contact me at: gab_picard@yahoo.com
