@@ -8,6 +8,6 @@ I am currently studying C# and C++ in university, and learning Python on my own.
 
 My current projets are:
 - A Markowitz model package
-- A neural network used to analyse hand-drawn numbers
+- A modular Neural Network that can be used for diverse tasks
 
 You can contact me at: gab_picard@yahoo.com
