@@ -2,7 +2,7 @@
 Hi !<br><br>I'm **Gabriel Picard**, I'm a french student currently studying  at **ESILV**.<br><br>I am majoring in Financial Engineering and minoring in Quantum Computing.<br><br>You can find all of my scholar and personnal projects here !
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-picard-34a396273/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gab_picard@yahoo.com) 
 
 # 💻 Tech Stack:
