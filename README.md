@@ -20,3 +20,5 @@ Hi !<br><br>I'm **Gabriel Picard**, I'm a french student currently studying  at 
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=gabPicard&theme=transparent&hide_border=false)<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabPicard)](https://github.com/anuraghazra/github-readme-stats)
